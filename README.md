@@ -49,7 +49,7 @@ npm start
 🔗 Deploy
 Este proyecto está desplegado en Vercel y es accesible públicamente:
 
-👉 https://tu-url.vercel.app
+👉 https://portafolio-personal-25dr.vercel.app/
 
 👨‍💻 Sobre mí
 Soy alguien apasionado por la tecnología y el aprendizaje autodidacta. Me gusta enfocarme en el backend, mantenimiento de servidores y bases de datos.
