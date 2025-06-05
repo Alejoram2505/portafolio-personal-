@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# 🚀 Portafolio Personal – Diego Alejandro Ramírez Velásquez
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+¡Bienvenido a mi portafolio web!  
+Aquí encontrarás una selección de mis proyectos, habilidades y un poco sobre mí como estudiante de Ingeniería en Ciencias de la Computación y TI.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌌 Modos Interactivos
 
-### `npm start`
+Este portafolio cuenta con dos modos visuales dinámicos:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🟣 **Midnight Drift** – Un ambiente oscuro con estética neón al estilo Need for Speed.
+- 🔵 **Cyberlight** – Un fondo animado tipo Tron, con luces dinámicas y estilo retro-futurista.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Puedes cambiar de modo en cualquier momento con el botón en la esquina superior derecha.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tecnologías usadas
 
-### `npm run build`
+- **React.js**
+- **Tailwind CSS**
+- **React Router**
+- **Three.js + Postprocessing** (para animaciones 3D)
+- **Hooks de React (useState, useEffect, useContext)**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📂 Secciones principales
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Landing:** Breve presentación personal.
+- **Proyectos:** Aplicaciones reales desarrolladas con React, Context API, y más.
+- **Habilidades:** Tecnologías y herramientas que domino.
+- **CV:** Descargable en PDF.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📁 Instalación local
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Si quieres clonar este proyecto y ejecutarlo localmente:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+git clone https://github.com/Alejoram2505/portafolio-personal
+cd portafolio-personal
+npm install
+npm start
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🔗 Deploy
+Este proyecto está desplegado en Vercel y es accesible públicamente:
 
-## Learn More
+👉 https://tu-url.vercel.app
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+👨‍💻 Sobre mí
+Soy alguien apasionado por la tecnología y el aprendizaje autodidacta. Me gusta enfocarme en el backend, mantenimiento de servidores y bases de datos.
+Trabajo con dedicación, atención al detalle y la curiosidad como motor para crecer cada día.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+📫 Contacto
+Si quieres saber más sobre mí o colaborar:
 
-### Code Splitting
+GitHub: @Alejoram2505
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Correo: Alejoram2505@gmail.com
