@@ -28,10 +28,10 @@ export default function Landing() {
       </h2>
 
       <p className={`max-w-3xl text-base sm:text-lg mb-6 ${textStyle}`}>
-        Soy un estudiante de Ingeniería en Ciencias de la Computación con
-        pasión por crear experiencias digitales únicas. Este portafolio es
-        una ventana a mis ideas, proyectos y habilidades. Exploro desde
-        desarrollos frontend impactantes hasta arquitectura backend sólida.
+        Soy estudiante de Ingeniería en Ciencias de la Computación y TI, con fuerte interés en backend, 
+        servidores y bases de datos. Me defino como autodidacta, curioso y enfocado: Actualmente exploro distintas áreas de la computación, con el objetivo 
+        de encontrar aquella que más disfrute (idealmente, sin escribir tanto código 😅).
+
       </p>
 
       <p className={`max-w-3xl text-base sm:text-lg mb-10 ${textStyle}`}>
