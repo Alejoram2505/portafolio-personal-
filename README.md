@@ -44,6 +44,7 @@ git clone https://github.com/Alejoram2505/portafolio-personal
 cd portafolio-personal
 npm install
 npm start
+```
 
 🔗 Deploy
 Este proyecto está desplegado en Vercel y es accesible públicamente:
